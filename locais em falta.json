@@ -1,0 +1,846 @@
+[
+    {   
+        "local":"Abrantes",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"BAÚ",
+                "seccao":[4],
+                "data":"Março 2019",
+                "noites":"2",
+                "participantes":"3"
+            },
+            {
+                "nome":"Encontro Fechado do Cenáculo Nacional",
+                "seccao":[4],
+                "data":"Novembro 2021",
+                "noites":"2",
+                "participantes":"2"
+            }
+        ]
+    },
+    {   
+        "local":"Aveiro",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Rover 100",
+                "seccao":[4],
+                "data":"Agosto 2019",
+                "noites":"7",
+                "participantes":"4"
+            }
+        ]
+    },
+    {   
+        "local":"Avô",
+        "coordenadas":"3985;1576",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"ERC 2015",
+                "seccao":[4],
+                "data":"Abril 2015",
+                "noites":"2",
+                "participantes":"2"
+            }
+        ]
+    },
+    {   
+        "local":"Boidobra",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Encontro Aberto Cenáculo",
+                "seccao":[4],
+                "data":"Março 2023",
+                "noites":"2",
+                "participantes":"2"
+            }
+        ]
+    },
+    {   
+        "local":"Brasfemes",
+        "coordenadas":"2943;1645",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Atividade de Paintball",
+                "seccao":[2],
+                "data":"Junho 2009",
+                "noites":"0",
+                "participantes":"18"
+            }
+        ]
+    },
+    {   
+        "local":"Caneiro",
+        "coordenadas":"3097;1721",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento Pioneiros",
+                "seccao":[3],
+                "data":"Novembro 2019",
+                "noites":"1",
+                "participantes":"21"
+            }
+        ]
+    },
+    {   
+        "local":"Cernache",
+        "coordenadas":"2793;1987",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Curso de Guias",
+                "seccao":[1],
+                "data":"Novembro 2009",
+                "noites":"2",
+                "participantes":"8"
+            },
+            {
+                "nome":"Apuramento Regional TECOREE 2020",
+                "seccao":[3],
+                "data":"Janeiro 2020",
+                "noites":"1",
+                "participantes":"24"
+            },
+            {
+                "nome":"Acampamento Lobitos",
+                "seccao":[1],
+                "data":"Fevereiro 2020",
+                "noites":"1",
+                "participantes":"25"
+            }
+        ]
+    },
+    {   
+        "local":"Choupal",
+        "coordenadas":"2841;1763",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"V Jamboree das Beiras",
+                "seccao":[1,2],
+                "data":"Julho 2005",
+                "noites":"7",
+                "participantes":"25"
+            }
+        ]
+    },
+    {   
+        "local":"Coja",
+        "coordenadas":"3802;1645",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"ACAGRUP 2018",
+                "seccao":[1,2,3,4],
+                "data":"Fevereiro 2018",
+                "noites":"2",
+                "participantes":"59"
+            }
+        ]
+    },
+    {   
+        "local":"Drave",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"DRAVIM",
+                "seccao":[4],
+                "data":"Outubro 2017",
+                "noites":"1",
+                "participantes":"3"
+            },
+            {
+                "nome":"Acampamento Caminheiros",
+                "seccao":[4],
+                "data":"Fevereiro 2018",
+                "noites":"2",
+                "participantes":"3"
+            },
+            {
+                "nome":"Acampamento Caminheiros",
+                "seccao":[4],
+                "data":"Dezembro 2019",
+                "noites":"2",
+                "participantes":"11"
+            },
+            {
+                "nome":"Acampamento Caminheiros",
+                "seccao":[4],
+                "data":"Fevereiro 2023",
+                "noites":"2",
+                "participantes":"13"
+            }
+        ]
+    },
+        {   
+        "local":"Espinheira",
+        "coordenadas":"3111;1505",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento Pioneiros",
+                "seccao":[3],
+                "data":"Dezembro 2021",
+                "noites":"1",
+                "participantes":"20"
+            }
+        ]
+    },
+    {   
+        "local":"Fátima",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Peregrinação Nacional",
+                "seccao":[1,2,3,4],
+                "data":"Outubro 2016",
+                "noites":"1",
+                "participantes":"40"
+            }
+        ]
+    },
+    {   
+        "local":"Ferrarias",
+        "coordenadas":"2988;2398",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Atividade de Espeleologia",
+                "seccao":[3],
+                "data":"Junho 2009",
+                "noites":"0",
+                "participantes":"13"
+            }
+        ]
+    },
+    {   
+        "local":"Figueira da Foz",
+        "coordenadas":"1893;1894",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Cenáculo Regional 2015",
+                "seccao":[4],
+                "data":"Março 2015",
+                "noites":"2",
+                "participantes":"5"
+            },
+            {
+                "nome":"ERC 2016",
+                "seccao":[4],
+                "data":"Abril 2016",
+                "noites":"1",
+                "participantes":"5"
+            },
+            {
+                "nome":"Acampamento Caminheiros",
+                "seccao":[4],
+                "data":"Abril 2019",
+                "noites":"2",
+                "participantes":"9"
+            },
+            {
+                "nome":"Acampamento Exploradores",
+                "seccao":[2],
+                "data":"Julho 2022",
+                "noites":"2",
+                "participantes":"21"
+            },
+            {
+                "nome":"Acampamento Pioneiros",
+                "seccao":[3],
+                "data":"Março 2023",
+                "noites":"2",
+                "participantes":"11"
+            }
+        ]
+    },
+    {   
+        "local":"Figueiró dos Vinhos",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"ERC 2012",
+                "seccao":[4],
+                "data":"Abril 2012",
+                "noites":"2",
+                "participantes":"4"
+            }
+        ]
+    },
+    {   
+        "local":"Góis",
+        "coordenadas":"3544;1954",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento Pioneiros",
+                "seccao":[3],
+                "data":"Junho 2017",
+                "noites":"2",
+                "participantes":"15"
+            },
+            {
+                "nome":"ACASECNUC 2019",
+                "seccao":[5],
+                "data":"Fevereiro 2019",
+                "noites":"1",
+                "participantes":"1"
+            },
+            {
+                "nome":"Acampamento Lobitos",
+                "seccao":[1],
+                "data":"Junho 2023",
+                "noites":"1",
+                "participantes":"16"
+            }
+        ]
+    },
+    {   
+        "local":"Kandersteg",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Portuguese Work Party 2016",
+                "seccao":[5],
+                "data":"Setembro 2016",
+                "noites":"9",
+                "participantes":"1"
+            },
+            {
+                "nome":"Portuguese Work Party 2022",
+                "seccao":[4,5],
+                "data":"Setembro 2022",
+                "noites":"9",
+                "participantes":"2"
+            }
+        ]
+    },
+    {   
+        "local":"Lorvão",
+        "coordenadas":"3119;1653",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Bivaque com o Agr. 355",
+                "seccao":[2],
+                "data":"Maio 2009",
+                "noites":"1",
+                "participantes":"29"
+            },
+            {
+                "nome":"Bivaque Exploradores",
+                "seccao":[2],
+                "data":"Novembro 2021",
+                "noites":"0",
+                "participantes":"22"
+            }
+        ]
+    },
+    {   
+        "local":"Manteigas",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento Caminheiros",
+                "seccao":[4],
+                "data":"Dezembro 2018",
+                "noites":"1",
+                "participantes":"10"
+            }
+        ]
+    },
+    {   
+        "local":"Marmeleira",
+        "coordenadas":"2887;1537",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento Exploradores",
+                "seccao":[2],
+                "data":"Dezembro 2010",
+                "noites":"2",
+                "participantes":"23"
+            }
+        ]
+    },
+    {   
+        "local":"Mata do Maxial",
+        "coordenadas":"2979;1593",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento Lobitos",
+                "seccao":[1],
+                "data":"Fevereiro 2023",
+                "noites":"1",
+                "participantes":"21"
+            }
+        ]
+    },
+    {   
+        "local":"Matosinhos",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Encontro Fechado do Cenáculo Nacional",
+                "seccao":[4],
+                "data":"Dezembro 2022",
+                "noites":"2",
+                "participantes":"1"
+            }
+        ]
+    },
+    {   
+        "local":"Mealhada",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Mercado Internacional",
+                "seccao":[3,4],
+                "data":"Novembro 2014",
+                "noites":"0",
+                "participantes":"22"
+            },
+            {
+                "nome":"Encontro Regional de Guias",
+                "seccao":[3],
+                "data":"Março 2022",
+                "noites":"0",
+                "participantes":"5"
+            }
+        ]
+    },
+    {   
+        "local":"Meãs do Campo",
+        "coordenadas":"2445;1786",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Cenáculo Regional 2019",
+                "seccao":[4],
+                "data":"Março 2019",
+                "noites":"2",
+                "participantes":"5"
+            }
+        ]
+    },
+    {   
+        "local":"Moinho Almoxarife",
+        "coordenadas":"2187;2065",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Cenáculo Regional 2018",
+                "seccao":[4],
+                "data":"Março 2018",
+                "noites":"2",
+                "participantes":"5"
+            }
+        ]
+    },
+    {   
+        "local":"Moura Morta",
+        "coordenadas":"3373;1699",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento Pioneiros",
+                "seccao":[3],
+                "data":"Dezembro 2022",
+                "noites":"2",
+                "participantes":"13"
+            }
+        ]
+    },
+    {   
+        "local":"Nogueira do Cravo",
+        "coordenadas":"4084;1417",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Cenáculo Regional 2022",
+                "seccao":[4],
+                "data":"Março 2022",
+                "noites":"2",
+                "participantes":"11"
+            }
+        ]
+    },
+    {   
+        "local":"Oliveira do Douro",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento Exploradores",
+                "seccao":[2],
+                "data":"Março 2018",
+                "noites":"3",
+                "participantes":"18"
+            }
+        ]
+    },
+    {   
+        "local":"Pampilhosa da Serra",
+        "coordenadas":"3880;2251",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"ERC 2006",
+                "seccao":[4],
+                "data":"Abril 2006",
+                "noites":"2",
+                "participantes":"2"
+            }
+        ]
+    },
+    {   
+        "local":"Portela de Oliveira",
+        "coordenadas":"3155;1531",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Atividade de Voluntariado",
+                "seccao":[2,3],
+                "data":"Fevereiro 2006",
+                "noites":"0",
+                "participantes":"21"
+            }
+        ]
+    },
+    {   
+        "local":"Porto de Mós",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento Lobitos",
+                "seccao":[1],
+                "data":"Junho 2018",
+                "noites":"3",
+                "participantes":"15"
+            }
+        ]
+    },
+    {   
+        "local":"Praia de Mira",
+        "coordenadas":"2097;1123",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Dia de S.Jorge",
+                "seccao":[2,3],
+                "data":"Abril 2008",
+                "noites":"2",
+                "participantes":"26"
+            },
+            {
+                "nome":"Mini Encontro Regional Exploradores",
+                "seccao":[2],
+                "data":"Abril 2014",
+                "noites":"1",
+                "participantes":"17"
+            },
+            {
+                "nome":"Acampamento Exploradores",
+                "seccao":[2],
+                "data":"Julho 2017",
+                "noites":"1",
+                "participantes":"20"
+            },
+            {
+                "nome":"Dia da Região 2018",
+                "seccao":[4],
+                "data":"Outubro 2018",
+                "noites":"1",
+                "participantes":"10"
+            }
+        ]
+    },
+    {   
+        "local":"Reconquinho",
+        "coordenadas":"3209;1627",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento Pioneiros",
+                "seccao":[3],
+                "data":"Junho 2016",
+                "noites":"1",
+                "participantes":"12"
+            }
+        ]
+    },
+    {   
+        "local":"Riba de Baixo",
+        "coordenadas":"3257;1609",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento Lobitos",
+                "seccao":[1],
+                "data":"Dezembro 2022",
+                "noites":"1",
+                "participantes":"21"
+            }
+        ]
+    },
+    {   
+        "local":"Sabugueiro",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento Pioneiros",
+                "seccao":[3],
+                "data":"Fevereiro 2016",
+                "noites":"2",
+                "participantes":"13"
+            }
+        ]
+    },
+    {   
+        "local":"Santiago de Compostela",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Caminho de Santiago",
+                "seccao":[4],
+                "data":"Abril 2022",
+                "noites":"5",
+                "participantes":"16"
+            }
+        ]
+    },
+    {   
+        "local":"São Jacinto",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento Caminheiros",
+                "seccao":[4],
+                "data":"Abril 2018",
+                "noites":"2",
+                "participantes":"6"
+            },
+            {
+                "nome":"Rover",
+                "seccao":[4],
+                "data":"Agosto 9",
+                "noites":"7",
+                "participantes":"4"
+            },
+            {
+                "nome":"Acampamento Caminheiros",
+                "seccao":[4],
+                "data":"Abril 2023",
+                "noites":"2",
+                "participantes":"9"
+            }
+        ]
+    },
+    {   
+        "local":"São Pedro de Alva",
+        "coordenadas":"3436;1516",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento Pioneiros",
+                "seccao":[3],
+                "data":"Junho 2023",
+                "noites":"2",
+                "participantes":"12"
+            }
+        ]
+    },
+    {   
+        "local":"Serra da Boa Viagem",
+        "coordenadas":"1902;1789",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento Lobitos e Exploradores",
+                "seccao":[1,2],
+                "data":"Dezembro 2004",
+                "noites":"2",
+                "participantes":"26"
+            }
+        ]
+    },
+    {   
+        "local":"Serra da Lousã",
+        "coordenadas":"3339;2128",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento Exploradores",
+                "seccao":[2],
+                "data":"Outubro 2005",
+                "noites":"1",
+                "participantes":"15"
+            },
+            {
+                "nome":"Acantonamento Pioneiros",
+                "seccao":[3],
+                "data":"Dezembro 2005",
+                "noites":"2",
+                "participantes":"6"
+            },
+            {
+                "nome":"Acantonamento Lobitos",
+                "seccao":[1],
+                "data":"Dezembro 2006",
+                "noites":"2",
+                "participantes":"6"
+            },
+            {
+                "nome":"Acantonamento Exploradores",
+                "seccao":[2],
+                "data":"Dezembro 2006",
+                "noites":"2",
+                "participantes":"19"
+            },
+            {
+                "nome":"Raid Pioneiros e Pais",
+                "seccao":[3],
+                "data":"Janeiro 2010",
+                "noites":"0",
+                "participantes":"21"
+            },
+            {
+                "nome":"Acampamento Pioneiros",
+                "seccao":[3],
+                "data":"Março 2018",
+                "noites":"2",
+                "participantes":"21"
+            },
+            {
+                "nome":"Bivaque Lobitos",
+                "seccao":[1],
+                "data":"Junho 2021",
+                "noites":"0",
+                "participantes":"23"
+            },
+            {
+                "nome":"Acampamento Pioneiros",
+                "seccao":[3],
+                "data":"Março 2022",
+                "noites":"2",
+                "participantes":"17"
+            }
+        ]
+    },
+    {   
+        "local":"Setúbal",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Mercado Interncaional",
+                "seccao":[4],
+                "data":"Outubro 2016",
+                "noites":"0",
+                "participantes":"2"
+            },
+            {
+                "nome":"Encontro Aberto do Cenáculo Nacional",
+                "seccao":[4],
+                "data":"Abril 2022",
+                "noites":"2",
+                "participantes":"2"
+            }
+        ]
+    },
+    {   
+        "local":"Tavarede",
+        "coordenadas":"1938;1849",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Quart'Andar",
+                "seccao":[4],
+                "data":"Janeiro 2019",
+                "noites":"1",
+                "participantes":"8"
+            },
+            {
+                "nome":"Acampamento Exploradores",
+                "seccao":[2],"data":"Março 2019",
+                "noites":"2",
+                "participantes":"21"
+            }
+        ]
+    },
+    {   
+        "local":"Tomar",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"ENC 2012",
+                "seccao":[4],
+                "data":"Novembro 2012",
+                "noites":"2",
+                "participantes":"2"
+            }
+        ]
+    },
+    {   
+        "local":"Viana do Castelo",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Encontro Nacional de Guias",
+                "seccao":[3],
+                "data":"Maio 2022",
+                "noites":"1",
+                "participantes":"2"
+            }
+        ]
+    }
+]

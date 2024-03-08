@@ -1,0 +1,3151 @@
+[
+    {   
+        "local":"Figueira de Lorvão",
+        "coordenadas":"2387;1596",
+        "nivel":"distrital",
+        "sede":true,
+        "atividades":[]
+    },
+    {   
+        "local":"Abrantes",
+        "coordenadas":"2552;1775",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"BAÚ",
+                "seccao":[4],
+                "data":"Março 2019",
+                "noites":"2",
+                "participantes":"3"
+            },
+            {
+                "nome":"Encontro Fechado do Cenáculo Nacional",
+                "seccao":[4],
+                "data":"Novembro 2021",
+                "noites":"2",
+                "participantes":"2"
+            }
+        ]
+    },
+    {   
+        "local":"Almaça",
+        "coordenadas":"2615;1301",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento Iª",
+                "seccao":[1],
+                "data":"Fevereiro 2005",
+                "noites":"1",
+                "participantes":"10"
+            }
+        ]
+    },
+    {   
+        "local":"Ameixeira",
+        "coordenadas":"2026;2124",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento Iª",
+                "seccao":[1],
+                "data":"Maio 2004",
+                "noites":"1",
+                "participantes":"14"
+            }
+        ]
+    },
+    {   
+        "local":"Arganil",
+        "coordenadas":"2939;1785",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"VI Jamboree das Beiras",
+                "seccao":[2],
+                "data":"Agosto 2009",
+                "noites":"6",
+                "participantes":"25"
+            },
+            {
+                "nome":"ACASECNUC Iª",
+                "seccao":[1],
+                "data":"Fevereiro 2015",
+                "noites":"2",
+                "participantes":"16"
+            }
+        ]
+    },
+    {
+        "local":"Arrábida",
+        "coordenadas":"2156;2291",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Dezembro 2016",
+                "noites":"3",
+                "participantes":"14"
+            }
+        ]
+    },
+    {   
+        "local":"Arrifana",
+        "coordenadas":"1966;2109",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento Iª",
+                "seccao":[1],
+                "data":"Dezembro 2013",
+                "noites":"2",
+                "participantes":"14"
+            },
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],
+                "data":"Dezembro 2013",
+                "noites":"3",
+                "participantes":"18"
+            },
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Dezembro 2014",
+                "noites":"2",
+                "participantes":"18"
+            },
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Dezembro 2018",
+                "noites":"3",
+                "participantes":"22"
+            },
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Dezembro 2023",
+                "noites":"2",
+                "participantes":"18"
+            }
+        ]
+    },
+    {   
+        "local":"Aveiro",
+        "coordenadas":"2402;1169",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Rover 100",
+                "seccao":[4],
+                "data":"Agosto 2019",
+                "noites":"7",
+                "participantes":"4"
+            }
+        ]
+    },
+    {   
+        "local":"Aveleira",
+        "coordenadas":"2335;1640",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento Iª",
+                "seccao":[1],
+                "data":"Junho 2005",
+                "noites":"1",
+                "participantes":"12"
+            },
+            {
+                "nome":"Acampamento Iª e IIª",
+                "seccao":[1,2],
+                "data":"Fevereiro 2007",
+                "noites":"2",
+                "participantes":"19"
+            },
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Fevereiro 2007",
+                "noites":"2",
+                "participantes":"7"
+            },
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],
+                "data":"Outubro 2011",
+                "noites":"1",
+                "participantes":"12"
+            },
+            {
+                "nome":"Acampamento Iª",
+                "seccao":[1],
+                "data":"Fevereiro 2013",
+                "noites":"1",
+                "participantes":"19"
+            }
+        ]
+    },
+    {   
+        "local":"Avô",
+        "coordenadas":"3263;1581",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"ERC 2015",
+                "seccao":[4],
+                "data":"Abril 2015",
+                "noites":"2",
+                "participantes":"2"
+            }
+        ]
+    },
+    {   
+        "local":"Batalha",
+        "coordenadas":"2288;1658",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento Chefia",
+                "seccao":[5],
+                "data":"Março 2006",
+                "noites":"1",
+                "participantes":"5"
+            },
+            {
+                "nome":"ACAGRUP 2006",
+                "seccao":[1,2,3],
+                "data":"Abril 2006",
+                "noites":"4",
+                "participantes":"30"
+            }
+        ]
+    },
+    {   
+        "local":"Barca D'Alva",
+        "coordenadas":"3080;962",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Junho 2011",
+                "noites":"2",
+                "participantes":"16"
+            },
+            {
+                "nome":"Acampamento IVª com o Agr.363",
+                "seccao":[4],
+                "data":"Setembro 2014",
+                "noites":"2",
+                "participantes":"3"
+            }
+        ]
+    },
+    {   
+        "local":"Benfeita",
+        "coordenadas":"3173;1749",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Julho 2015",
+                "noites":"2",
+                "participantes":"14"
+            }
+        ]
+    },
+    {   
+        "local":"Bexon Lane",
+        "coordenadas":"2548;1319",
+        "nivel":"internacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Actividade Internacional do Núcleo Centro-Norte",
+                "seccao":[3,4],
+                "data":"Agosto 2015",
+                "noites":"1",
+                "participantes":"24"
+            }
+        ]
+    },
+    {   
+        "local":"Boidobra",
+        "coordenadas":"2879;1385",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Encontro Aberto Cenáculo",
+                "seccao":[4],
+                "data":"Março 2023",
+                "noites":"2",
+                "participantes":"2"
+            }
+        ]
+    },
+    {   
+        "local":"Brasfemes",
+        "coordenadas":"2221;1650",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Atividade de Paintball",
+                "seccao":[2],
+                "data":"Junho 2009",
+                "noites":"0",
+                "participantes":"18"
+            }
+        ]
+    },
+    {   
+        "local":"Brownsea",
+        "coordenadas":"2340;1359",
+        "nivel":"internacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Actividade Internacional do Núcleo Centro-Norte",
+                "seccao":[3,4],
+                "data":"Agosto 2015",
+                "noites":"3",
+                "participantes":"24"
+            }
+        ]
+    },
+    {   
+        "local":"Cabril",
+        "coordenadas":"2696;1884",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento IIª e IIIª",
+                "seccao":[2,3],
+                "data":"Março 2007",
+                "noites":"4",
+                "participantes":"25"
+            }
+        ]
+    },
+    {   
+        "local":"Caneiro",
+        "coordenadas":"2375;1726",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento IIIª",
+                "seccao":[3],
+                "data":"Novembro 2019",
+                "noites":"1",
+                "participantes":"21"
+            }
+        ]
+    },
+    {   
+        "local":"Cantanhede",
+        "coordenadas":"1710;1440",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],
+                "data":"Fevereiro 2012",
+                "noites":"2",
+                "participantes":"23"
+            },
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Fevereiro 2012",
+                "noites":"3",
+                "participantes":"13"
+            },
+            {
+                "nome":"Cenáculo Regional 2020",
+                "seccao":[4],
+                "data":"Março 2020",
+                "noites":"2",
+                "participantes":"10"
+            }
+        ]
+    },
+    {   
+        "local":"Caparrosinha",
+        "coordenadas":"2603;1280",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento Chefia",
+                "seccao":[5],
+                "data":"Novembro 2005",
+                "noites":"1",
+                "participantes":"8"
+            },
+            {
+                "nome":"Acantonamento Iª",
+                "seccao":[1],
+                "data":"Dezembro 2005",
+                "noites":"1",
+                "participantes":"4"
+            },
+            {
+                "nome":"Acantonamento IIª",
+                "seccao":[2],
+                "data":"Dezembro 2005",
+                "noites":"2",
+                "participantes":"14"
+            },
+            {
+                "nome":"Acantonamento IIª",
+                "seccao":[2],
+                "data":"Dezembro 2007",
+                "noites":"3",
+                "participantes":"17"
+            },
+            {
+                "nome":"Acantonamento Iª",
+                "seccao":[1],
+                "data":"Dezembro 2010",
+                "noites":"2",
+                "participantes":"16"
+            },
+            {
+                "nome":"Acantonamento IIª",
+                "seccao":[2],
+                "data":"Dezembro 2015",
+                "noites":"2",
+                "participantes":"21"
+            },
+            {
+                "nome":"Acantonamento Iª",
+                "seccao":[1],
+                "data":"Dezembro 2018",
+                "noites":"2",
+                "participantes":"15"
+            }
+        ]
+    },
+    {   
+        "local":"Caramulo",
+        "coordenadas":"2603;1202",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"ACAGRUP 2016",
+                "seccao":[1,2,3,4],
+                "data":"Março 2016",
+                "noites":"4",
+                "participantes":"55"
+            }
+        ]
+    },
+    {   
+        "local":"Carvalho",
+        "coordenadas":"2427;1458",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento IIIª",
+                "seccao":[3],
+                "data":"Outubro 2005",
+                "noites":"2",
+                "participantes":"9"
+            },
+            {
+                "nome":"Acantonamento Iª",
+                "seccao":[1],
+                "data":"Fevereiro 2006",
+                "noites":"1",
+                "participantes":"6"
+            },
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],
+                "data":"Outubro 2006",
+                "noites":"1",
+                "participantes":"10"
+            },
+            {
+                "nome":"Acantonamento Iª",
+                "seccao":[1],
+                "data":"Dezembro 2009",
+                "noites":"1",
+                "participantes":"17"
+            },
+            {
+                "nome":"Acantonamento Iª",
+                "seccao":[1],
+                "data":"Abril 2022",
+                "noites":"1",
+                "participantes":"15"
+            }
+        ]
+    },
+    {   
+        "local":"Carvoeira",
+        "coordenadas":"2509;1666",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento Iª",
+                "seccao":[1],
+                "data":"Outubro 2004",
+                "noites":"1",
+                "participantes":"8"
+            },
+            {
+                "nome":"Acantonamento IIª",
+                "seccao":[2],
+                "data":"Novembro 2004",
+                "noites":"1",
+                "participantes":"13"
+            }
+        ]
+    },
+    {   
+        "local":"Castanheira de Pêra",
+        "coordenadas":"2534;1538",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento Iª e IIª",
+                "seccao":[1,2],
+                "data":"Junho 2015",
+                "noites":"2",
+                "participantes":"35"
+            }
+        ]
+    },
+    {   
+        "local":"Cerdeira",
+        "coordenadas":"2674;2055",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento Iª",
+                "seccao":[1],
+                "data":"Maio 2010",
+                "noites":"2",
+                "participantes":"14"
+            },
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],
+                "data":"Maio 2010",
+                "noites":"1",
+                "participantes":"12"
+            }
+        ]
+    },
+    {   
+        "local":"Cernache",
+        "coordenadas":"2071;1992",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Curso de Guias",
+                "seccao":[1],
+                "data":"Novembro 2009",
+                "noites":"2",
+                "participantes":"8"
+            },
+            {
+                "nome":"Apuramento Regional TECOREE 2020",
+                "seccao":[3],
+                "data":"Janeiro 2020",
+                "noites":"1",
+                "participantes":"24"
+            },
+            {
+                "nome":"Acampamento Iª",
+                "seccao":[1],
+                "data":"Fevereiro 2020",
+                "noites":"1",
+                "participantes":"25"
+            }
+        ]
+    },
+    {   
+        "local":"Choupal",
+        "coordenadas":"2119;1768",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"V Jamboree das Beiras",
+                "seccao":[1,2],
+                "data":"Julho 2005",
+                "noites":"7",
+                "participantes":"25"
+            }
+        ]
+    },
+    {   
+        "local":"Coentral",
+        "coordenadas":"2561;1490",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento IIª",
+                "seccao":[2],
+                "data":"Dezembro 2012",
+                "noites":"3",
+                "participantes":"17"
+            },
+            {
+                "nome":"Acantonamento IIª",
+                "seccao":[2],
+                "data":"Dezembro 2015",
+                "noites":"2",
+                "participantes":"21"
+            },
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],
+                "data":"Abril 2019",
+                "noites":"2",
+                "participantes":"20"
+            }
+        ]
+    },
+    {   
+        "local":"Coimbra",
+        "coordenadas":"2187;1810",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Jogo de Cidade com o Agr. 355",
+                "seccao":[2],
+                "data":"Janeiro 2009",
+                "noites":"0",
+                "participantes":"22"
+            },
+            {
+                "nome":"Acampamento IIª e IIIª com o Agr. 355",
+                "seccao":[2,3],
+                "data":"Julho 2009",
+                "noites":"1",
+                "participantes":"25"
+            },
+            {
+                "nome":"Curso de Guias",
+                "seccao":[1,2,3],
+                "data":"Novembro 2011",
+                "noites":"2",
+                "participantes":"21"
+            },
+            {
+                "nome":"Comemoração 20 Anos Núcleo Centro Norte",
+                "seccao":[1,2,3],
+                "data":"Novembro 2011",
+                "noites":"0",
+                "participantes":"30"
+            },
+            {
+                "nome":"Entre a noite e a manhã",
+                "seccao":[4],
+                "data":"Dezembro 2011",
+                "noites":"0",
+                "participantes":"4"
+            },
+            {
+                "nome":"Bivaque Inter-Agrupamentos Iª",
+                "seccao":[1],
+                "data":"Maio 2012",
+                "noites":"0",
+                "participantes":"19"
+            },
+            {
+                "nome":"Bivaque Inter-Agrupamentos IIª",
+                "seccao":[2],
+                "data":"Junho 2012",
+                "noites":"0",
+                "participantes":"16"
+            },
+            {
+                "nome":"Encontro de Guias Preparação ACANAC",
+                "seccao":[2,3,4],
+                "data":"Julho 2012",
+                "noites":"0",
+                "participantes":"14"
+            },
+            {
+                "nome":"JOTA/JOTI",
+                "seccao":[1,2,3,4],
+                "data":"Outubro 2012",
+                "noites":"0",
+                "participantes":"42"
+            },
+            {
+                "nome":"Dia de S.Paulo",
+                "seccao":[4],
+                "data":"Outubro 2012",
+                "noites":"0",
+                "participantes":"2"
+            },
+            {
+                "nome":"Bivaque IIª",
+                "seccao":[2],
+                "data":"Julho 2013",
+                "noites":"0",
+                "participantes":"7"
+            },
+            {
+                "nome":"Acampamento Iª",
+                "seccao":[1],
+                "data":"Maio 2014",
+                "noites":"1",
+                "participantes":"22"
+            },
+            {
+                "nome":"Dia da Região 2015",
+                "seccao":[1,2,3,4],
+                "data":"Outubro 2014",
+                "noites":"0",
+                "participantes":"42"
+            },
+            {
+                "nome":"Bivaque IIIª",
+                "seccao":[3],
+                "data":"Novembro 2014",
+                "noites":"0",
+                "participantes":"16"
+            },
+            {
+                "nome":"Dia de São Paulo 2016",
+                "seccao":[4],
+                "data":"Janeiro 2016",
+                "noites":"0",
+                "participantes":"2"
+            },
+            {
+                "nome":"Cenáculo Regional 2016",
+                "seccao":[4],
+                "data":"Fevereiro 2016",
+                "noites":"1",
+                "participantes":"3"
+            },
+            {
+                "nome":"Acantonamento IIª",
+                "seccao":[2],
+                "data":"Dezembro 2016",
+                "noites":"2",
+                "participantes":"20"
+            },
+            {
+                "nome":"Conselho Regional de Guias",
+                "seccao":[2,3],
+                "data":"Fevereiro 2017",
+                "noites":"0",
+                "participantes":"13"
+            },
+            {
+                "nome":"Cenáculo Regional 2017",
+                "seccao":[4],
+                "data":"Março 2017",
+                "noites":"2",
+                "participantes":"4"
+            },
+            {
+                "nome":"Encontro Regional de Guias 2019",
+                "seccao":[3],
+                "data":"Março 2019",
+                "noites":"0",
+                "participantes":"8"
+            },
+            {
+                "nome":"Fogo da IVª",
+                "seccao":[4],
+                "data":"Janeiro 2022",
+                "noites":"0",
+                "participantes":"6"
+            },
+            {
+                "nome":"Acampamento IIª e IIIª",
+                "seccao":[2,3],
+                "data":"Fevereiro 2023",
+                "noites":"2",
+                "participantes":"30"
+            },
+            {
+                "nome":"Acampamento IVª",
+                "seccao":[4],
+                "data":"Novembro 2023",
+                "noites":"2",
+                "participantes":"9"
+            },
+            {
+                "nome":"Acantonamento Iª",
+                "seccao":[1],
+                "data":"Dezembro 2023",
+                "noites":"2",
+                "participantes":"13"
+            }
+        ]
+    },
+    {   
+        "local":"Coja",
+        "coordenadas":"3080;1650",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"ACAGRUP 2018",
+                "seccao":[1,2,3,4],
+                "data":"Fevereiro 2018",
+                "noites":"2",
+                "participantes":"59"
+            }
+        ]
+    },
+    {   
+        "local":"Condeixa",
+        "coordenadas":"2008;2061",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento Iª",
+                "seccao":[1],
+                "data":"Junho 2016",
+                "noites":"2",
+                "participantes":"19"
+            },
+            {
+                "nome":"ERC 2017",
+                "seccao":[4],
+                "data":"Abril 2017",
+                "noites":"1",
+                "participantes":"4"
+            },
+            {
+                "nome":"Acampamento Iª",
+                "seccao":[1],
+                "data":"Março 2019",
+                "noites":"1",
+                "participantes":"20"
+            },
+            {
+                "nome":"Acampamento Iª",
+                "seccao":[1],
+                "data":"Abril 2023",
+                "noites":"1",
+                "participantes":"19"
+            }
+        ]
+    },
+    {   
+        "local":"Drave",
+        "coordenadas":"2603;1055",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"DRAVIM",
+                "seccao":[4],
+                "data":"Outubro 2017",
+                "noites":"1",
+                "participantes":"3"
+            },
+            {
+                "nome":"Acampamento IVª",
+                "seccao":[4],
+                "data":"Fevereiro 2018",
+                "noites":"2",
+                "participantes":"3"
+            },
+            {
+                "nome":"Acampamento IVª",
+                "seccao":[4],
+                "data":"Dezembro 2019",
+                "noites":"2",
+                "participantes":"11"
+            },
+            {
+                "nome":"Acampamento IVª",
+                "seccao":[4],
+                "data":"Fevereiro 2023",
+                "noites":"2",
+                "participantes":"13"
+            }
+        ]
+    },
+    {   
+        "local":"Edimburgo",
+        "coordenadas":"2336;695",
+        "nivel":"internacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Actividade Internacional do Núcleo Centro-Norte",
+                "seccao":[3,4],
+                "data":"Agosto 2015",
+                "noites":"2",
+                "participantes":"24"
+            }
+        ]
+    },
+    {   
+        "local":"Entroncamento",
+        "coordenadas":"2435;1775",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Março 2015",
+                "noites":"3",
+                "participantes":"17"
+            }
+        ]
+    },
+    {   
+        "local":"Escoural",
+        "coordenadas":"1528;1452",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento Iª",
+                "seccao":[1],
+                "data":"Junho 2006",
+                "noites":"1",
+                "participantes":"6"
+            }
+        ]
+    },
+    {   
+        "local":"Espinheira",
+        "coordenadas":"2389;1510",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento IIIª",
+                "seccao":[3],
+                "data":"Dezembro 2021",
+                "noites":"1",
+                "participantes":"20"
+            }
+        ]
+    },
+    {   
+        "local":"Fátima",
+        "coordenadas":"2357;1682",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Peregrinação Nacional",
+                "seccao":[1,2,3,4],
+                "data":"Outubro 2016",
+                "noites":"1",
+                "participantes":"40"
+            }
+        ]
+    },
+    {   
+        "local":"Febres",
+        "coordenadas":"1723;1284",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Fevereiro 2015",
+                "noites":"2",
+                "participantes":"13"
+            },
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Março 2019",
+                "noites":"3",
+                "participantes":"23"
+            }
+        ]
+    },
+    {   
+        "local":"Ferrarias",
+        "coordenadas":"2266;2403",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Atividade de Espeleologia",
+                "seccao":[3],
+                "data":"Junho 2009",
+                "noites":"0",
+                "participantes":"13"
+            }
+        ]
+    },
+    {   
+        "local":"Ferreira do Zêzere",
+        "coordenadas":"2519;1652",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"ACAGRUP 2011",
+                "seccao":[1,2,3,4],
+                "data":"Julho 2011",
+                "noites":"6",
+                "participantes":"49"
+            },
+            {
+                "nome":"Atividade de Serviço IIIª",
+                "seccao":[3],
+                "data":"Novembro 2010",
+                "noites":"0",
+                "participantes":"4"
+            },
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Abril 2014",
+                "noites":"3",
+                "participantes":"16"
+            },
+            {
+                "nome":"Descobertas - Encontro Regional de IIª",
+                "seccao":[2],
+                "data":"Agosto 2015",
+                "noites":"4",
+                "participantes":"18"
+            },
+            {
+                "nome":"ACAREG 2018",
+                "seccao":[2,3,4],
+                "data":"Agosto 2018",
+                "noites":"5",
+                "participantes":"40"
+            },
+            {
+                "nome":"Acampamento Iª",
+                "seccao":[1],
+                "data":"Junho 2019",
+                "noites":"2",
+                "participantes":"24"
+            }
+        ]
+    },
+    {   
+        "local":"Figueira da Foz",
+        "coordenadas":"1171;1899",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Cenáculo Regional 2015",
+                "seccao":[4],
+                "data":"Março 2015",
+                "noites":"2",
+                "participantes":"5"
+            },
+            {
+                "nome":"ERC 2016",
+                "seccao":[4],
+                "data":"Abril 2016",
+                "noites":"1",
+                "participantes":"5"
+            },
+            {
+                "nome":"Acampamento IVª",
+                "seccao":[4],
+                "data":"Abril 2019",
+                "noites":"2",
+                "participantes":"9"
+            },
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],
+                "data":"Julho 2022",
+                "noites":"2",
+                "participantes":"21"
+            },
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Março 2023",
+                "noites":"2",
+                "participantes":"11"
+            }
+        ]
+    },
+    {   
+        "local":"Figueiró dos Vinhos",
+        "coordenadas":"2516;1565",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"ERC 2012",
+                "seccao":[4],
+                "data":"Abril 2012",
+                "noites":"2",
+                "participantes":"4"
+            }
+        ]
+    },
+    {   
+        "local":"Góis",
+        "coordenadas":"2822;1959",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Junho 2017",
+                "noites":"2",
+                "participantes":"15"
+            },
+            {
+                "nome":"ACASECNUC 2019",
+                "seccao":[5],
+                "data":"Fevereiro 2019",
+                "noites":"1",
+                "participantes":"1"
+            },
+            {
+                "nome":"Acampamento Iª",
+                "seccao":[1],
+                "data":"Junho 2023",
+                "noites":"1",
+                "participantes":"16"
+            }
+        ]
+    },
+    {   
+        "local":"Gondramaz",
+        "coordenadas":"2482;2184",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento IIª",
+                "seccao":[2],
+                "data":"Dezembro 2011",
+                "noites":"2",
+                "participantes":"23"
+            },
+            {
+                "nome":"Acantonamento IIIª",
+                "seccao":[3],
+                "data":"Dezembro 2011",
+                "noites":"3",
+                "participantes":"12"
+            },
+            {
+                "nome":"Acantonamento IIIª",
+                "seccao":[3],
+                "data":"Dezembro 2015",
+                "noites":"2",
+                "participantes":"14"
+            },
+            {
+                "nome":"Acantonamento IIª",
+                "seccao":[2],
+                "data":"Dezembro 2017",
+                "noites":"2",
+                "participantes":"16"
+            }
+        ]
+    },
+    {   
+        "local":"Guia",
+        "coordenadas":"2294;1526",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"VII Jamboree das Beiras",
+                "seccao":[2,3],
+                "data":"Agosto 2013",
+                "noites":"6",
+                "participantes":"28"
+            }
+        ]
+    },
+    {   
+        "local":"Hombres",
+        "coordenadas":"2751;1575",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Maio 2010",
+                "noites":"1",
+                "participantes":"15"
+            },
+            {
+                "nome":"Acampamento Iª",
+                "seccao":[1],
+                "data":"Abril 2011",
+                "noites":"3",
+                "participantes":"18"
+            },
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],
+                "data":"Junho 2016",
+                "noites":"2",
+                "participantes":"17"
+            }
+        ]
+    },
+    {   
+        "local":"Idanha-a-Nova",
+        "coordenadas":"2963;1517",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"TECOREE",
+                "seccao":[3],
+                "data":"Abril 2011",
+                "noites":"3",
+                "participantes":"16"
+            },
+            {
+                "nome":"XXII ACANAC",
+                "seccao":[1,2,3,4],
+                "data":"Agosto 2012",
+                "noites":"7",
+                "participantes":"54"
+            },
+            {
+                "nome":"ACANAC + Cedo",
+                "seccao":[5],
+                "data":"Julho 2017",
+                "noites":"3",
+                "participantes":"2"
+            },
+            {
+                "nome":"XXIII ACANAC",
+                "seccao":[2,3,4],
+                "data":"Julho 2017",
+                "noites":"6",
+                "participantes":"32"
+            }
+        ]
+    },
+    {   
+        "local":"Kandersteg",
+        "coordenadas":"3084;1959",
+        "nivel":"internacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Portuguese Work Party 2016",
+                "seccao":[5],
+                "data":"Setembro 2016",
+                "noites":"9",
+                "participantes":"1"
+            },
+            {
+                "nome":"Portuguese Work Party 2022",
+                "seccao":[4,5],
+                "data":"Setembro 2022",
+                "noites":"9",
+                "participantes":"2"
+            }
+        ]
+    },
+    {   
+        "local":"Lagoa de Santo André",
+        "coordenadas":"2297;2495",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"ACAGRUP 2014",
+                "seccao":[1,2,3,4],
+                "data":"Julho 2014",
+                "noites":"5",
+                "participantes":"45"
+            }
+        ]
+    },
+    {   
+        "local":"Lisboa",
+        "coordenadas":"2129;2132",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento IIª",
+                "seccao":[2],
+                "data":"Fevereiro 2015",
+                "noites":"2",
+                "participantes":"24"
+            },
+            {
+                "nome":"Acantonamento IIª",
+                "seccao":[2],
+                "data":"Dezembro 2023",
+                "noites":"2",
+                "participantes":"20"
+            }
+        ]
+    },
+    {   
+        "local":"Londres",
+        "coordenadas":"2480;1275",
+        "nivel":"internacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Actividade Internacional do Núcleo Centro-Norte",
+                "seccao":[3,4],
+                "data":"Agosto 2015",
+                "noites":"2",
+                "participantes":"24"
+            }
+        ]
+    },
+    {   
+        "local":"Loriga",
+        "coordenadas":"2780;1325",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento IIIª",
+                "seccao":[3],
+                "data":"Dezembro 2007",
+                "noites":"3",
+                "participantes":"10"
+            },
+            {
+                "nome":"Acantonamento IIIª",
+                "seccao":[3],
+                "data":"Dezembro 2012",
+                "noites":"3",
+                "participantes":"19"
+            }
+        ]
+    },
+    {   
+        "local":"Lorvão",
+        "coordenadas":"2397;1658",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Bivaque com o Agr. 355",
+                "seccao":[2],
+                "data":"Maio 2009",
+                "noites":"1",
+                "participantes":"29"
+            },
+            {
+                "nome":"Bivaque IIª",
+                "seccao":[2],
+                "data":"Novembro 2021",
+                "noites":"0",
+                "participantes":"22"
+            }
+        ]
+    },
+    {   
+        "local":"Lousã",
+        "coordenadas":"2542;2025",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Dia da Região 2014",
+                "seccao":[1,2,3,4],
+                "data":"Outubro 2014",
+                "noites":"0",
+                "participantes":"45"
+            },
+            {
+                "nome":"Acantonamento IIIª",
+                "seccao":[3],
+                "data":"Outubro 2014",
+                "noites":"1",
+                "participantes":"17"
+            },
+            {
+                "nome":"Remas",
+                "seccao":[4],
+                "data":"Maio 2021",
+                "noites":"0",
+                "participantes":"3"
+            }
+        ]
+    },
+    {   
+        "local":"Luso",
+        "coordenadas":"2486;1304",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"ERC 2013",
+                "seccao":[4],
+                "data":"Maio 2009",
+                "noites":"2",
+                "participantes":"3"
+            },
+            {
+                "nome":"Encontro Regional de Guias 2018",
+                "seccao":[1],
+                "data":"Abril 2018",
+                "noites":"0",
+                "participantes":"4"
+            },
+            {
+                "nome":"Acampamento Iª",
+                "seccao":[1],
+                "data":"Abril 2018",
+                "noites":"1",
+                "participantes":"17"
+            },
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],
+                "data":"Dezembro 2019",
+                "noites":"2",
+                "participantes":"20"
+            }
+        ]
+    },
+    {   
+        "local":"Madeira",
+        "coordenadas":"1115;2327",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento de Agrupamento",
+                "seccao":[1,2,3,4],
+                "data":"Agosto 2010",
+                "noites":"7",
+                "participantes":"36"
+            }
+        ]
+    },
+    {   
+        "local":"Manteigas",
+        "coordenadas":"2843;1280",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento IVª",
+                "seccao":[4],
+                "data":"Dezembro 2018",
+                "noites":"1",
+                "participantes":"10"
+            }
+        ]
+    },
+    {   
+        "local":"Marmeleira",
+        "coordenadas":"2165;1542",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento IIª",
+                "seccao":[2],
+                "data":"Dezembro 2010",
+                "noites":"2",
+                "participantes":"23"
+            }
+        ]
+    },
+    {   
+        "local":"Mata de S.Pedro",
+        "coordenadas":"2261;1486",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento Iª",
+                "seccao":[1],
+                "data":"Dezembro 2012",
+                "noites":"2",
+                "participantes":"21"
+            },
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Outubro 2013",
+                "noites":"1",
+                "participantes":"12"
+            },
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],
+                "data":"Outubro 2014",
+                "noites":"2",
+                "participantes":"21"
+            },
+            {
+                "nome":"Acantonamento Iª",
+                "seccao":[1],
+                "data":"Abril 2019",
+                "noites":"1",
+                "participantes":"21"
+            }
+        ]
+    },
+    {   
+        "local":"Mata do Maxial",
+        "coordenadas":"2257;1598",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento Iª",
+                "seccao":[1],
+                "data":"Fevereiro 2023",
+                "noites":"1",
+                "participantes":"21"
+            }
+        ]
+    },
+    {   
+        "local":"Matosinhos",
+        "coordenadas":"2384;878",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Encontro Fechado do Cenáculo Nacional",
+                "seccao":[4],
+                "data":"Dezembro 2022",
+                "noites":"2",
+                "participantes":"1"
+            }
+        ]
+    },
+    {   
+        "local":"Mealhada",
+        "coordenadas":"2453;1292",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Mercado Internacional",
+                "seccao":[3,4],
+                "data":"Novembro 2014",
+                "noites":"0",
+                "participantes":"22"
+            },
+            {
+                "nome":"Encontro Regional de Guias",
+                "seccao":[3],
+                "data":"Março 2022",
+                "noites":"0",
+                "participantes":"5"
+            }
+        ]
+    },
+    {   
+        "local":"Meãs do Campo",
+        "coordenadas":"1723;1791",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Cenáculo Regional 2019",
+                "seccao":[4],
+                "data":"Março 2019",
+                "noites":"2",
+                "participantes":"5"
+            }
+        ]
+    },
+    {   
+        "local":"Mira de Aire",
+        "coordenadas":"2336;1742",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento Iª",
+                "seccao":[1],
+                "data":"Julho 2013",
+                "noites":"3",
+                "participantes":"21"
+            }
+        ]
+    },
+    {   
+        "local":"Miranda do Corvo",
+        "coordenadas":"2383;2115",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento Iª",
+                "seccao":[1],
+                "data":"Julho 2017",
+                "noites":"3",
+                "participantes":"14"
+            }
+        ]
+    },
+    {   
+        "local":"Moinho Almoxarife",
+        "coordenadas":"1465;2070",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Cenáculo Regional 2018",
+                "seccao":[4],
+                "data":"Março 2018",
+                "noites":"2",
+                "participantes":"5"
+            }
+        ]
+    },
+    {   
+        "local":"Montemor-o-Velho",
+        "coordenadas":"1618;1899",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento IIª e IIIª",
+                "seccao":[3],
+                "data":"Dezembro 2008",
+                "noites":"2",
+                "participantes":"29"
+            },
+            {
+                "nome":"Acantonamento Iª",
+                "seccao":[1],
+                "data":"Fevereiro 2010",
+                "noites":"1",
+                "participantes":"17"
+            },
+            {
+                "nome":"Acantonamento IIª",
+                "seccao":[2],
+                "data":"Dezembro 2018",
+                "noites":"2",
+                "participantes":"19"
+            },
+            {
+                "nome":"Combinar com S.Jorge",
+                "seccao":[2],
+                "data":"Abril 2023",
+                "noites":"2",
+                "participantes":"11"
+            }
+        ]
+    },
+    {   
+        "local":"Monte Redondo",
+        "coordenadas":"2283;1536",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento Iª e IIIª",
+                "seccao":[3],
+                "data":"Janeiro 2009",
+                "noites":"1",
+                "participantes":"29"
+            },
+            {
+                "nome":"Acantonamento IIª",
+                "seccao":[2],
+                "data":"Dezembro 2023",
+                "noites":"1",
+                "participantes":"14"
+            }
+        ]
+    },
+    {   
+        "local":"Moura Morta",
+        "coordenadas":"2651;1704",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Dezembro 2022",
+                "noites":"2",
+                "participantes":"13"
+            }
+        ]
+    },
+    {   
+        "local":"Nogueira do Cravo",
+        "coordenadas":"3362;1422",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Cenáculo Regional 2022",
+                "seccao":[4],
+                "data":"Março 2022",
+                "noites":"2",
+                "participantes":"11"
+            }
+        ]
+    },
+    {   
+        "local":"Nottingham",
+        "coordenadas":"2432;1067",
+        "nivel":"internacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Actividade Internacional do Núcleo Centro-Norte",
+                "seccao":[3,4],
+                "data":"Agosto 2015",
+                "noites":"1",
+                "participantes":"24"
+            }
+        ]
+    },
+    {   
+        "local":"Oliveira do Douro",
+        "coordenadas":"2432;920",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],
+                "data":"Março 2018",
+                "noites":"3",
+                "participantes":"18"
+            }
+        ]
+    },
+    {   
+        "local":"Oliveira do Hospital",
+        "coordenadas":"3399;1347",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Dia de S.Jorge",
+                "seccao":[1,2,3],
+                "data":"Abril 2009",
+                "noites":"1",
+                "participantes":"38"
+            }
+        ]
+    },
+    {   
+        "local":"Palhaça",
+        "coordenadas":"2411;1229",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Curso de Guias",
+                "seccao":[1,2,3],
+                "data":"Janeiro 2006",
+                "noites":"1",
+                "participantes":"17"
+            },
+            {
+                "nome":"Acantonamento IIª e IIIª",
+                "seccao":[2,3],
+                "data":"Fevereiro 2009",
+                "noites":"2",
+                "participantes":"26"
+            }
+        ]
+    },
+    {   
+        "local":"Palheirão",
+        "coordenadas":"1342;1317",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"ACAGRUP 2005",
+                "seccao":[2,3],
+                "data":"Março 2005",
+                "noites":"4",
+                "participantes":"29"
+            },
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],
+                "data":"Junho 2005",
+                "noites":"2",
+                "participantes":"18"
+            },
+            {
+                "nome":"Acampamento de Núcleo",
+                "seccao":[1,2,3],
+                "data":"Abril 2006",
+                "noites":"2",
+                "participantes":"19"
+            },
+            {
+                "nome":"ACAGRUP 2008",
+                "seccao":[2,3,4],
+                "data":"Julho 2008",
+                "noites":"4",
+                "participantes":"25"
+            },
+            {
+                "nome":"Acampamento IIª e IIIª",
+                "seccao":[2,3],
+                "data":"Fevereiro 2010",
+                "noites":"2",
+                "participantes":"33"
+            },
+            {
+                "nome":"Acampamento Iª",
+                "seccao":[1],
+                "data":"Março 2011",
+                "noites":"2",
+                "participantes":"15"
+            },
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],
+                "data":"Abril 2011",
+                "noites":"3",
+                "participantes":"25"
+            },
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Março 2011",
+                "noites":"2",
+                "participantes":"13"
+            },
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Julho 2013",
+                "noites":"3",
+                "participantes":"17"
+            },
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],
+                "data":"Abril 2014",
+                "noites":"2",
+                "participantes":"17"
+            }
+        ]
+    },
+    {   
+        "local":"Pampilhosa da Serra",
+        "coordenadas":"3158;2256",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"ERC 2006",
+                "seccao":[4],
+                "data":"Abril 2006",
+                "noites":"2",
+                "participantes":"2"
+            }
+        ]
+    },
+    {   
+        "local":"Pampilhosa do Botão",
+        "coordenadas":"2453;1334",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Dia de BP",
+                "seccao":[1,2],
+                "data":"Março 2009",
+                "noites":"0",
+                "participantes":"21"
+            },
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],
+                "data":"Junho 2012",
+                "noites":"1",
+                "participantes":"20"
+            },
+            {
+                "nome":"ACAGRUP 2013",
+                "seccao":[1,2,3,4],
+                "data":"Março 2013",
+                "noites":"3",
+                "participantes":"61"
+            }
+        ]
+    },
+    {   
+        "local":"Paradela da Cortiça",
+        "coordenadas":"2711;1611",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Junho 2012",
+                "noites":"1",
+                "participantes":"11"
+            },
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],
+                "data":"Junho 2013",
+                "noites":"1",
+                "participantes":"16"
+            }
+        ]
+    },
+    {   
+        "local":"Paris",
+        "coordenadas":"2672;1607",
+        "nivel":"internacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Actividade Internacional do Núcleo Centro-Norte",
+                "seccao":[3,4],
+                "data":"Agosto 2015",
+                "noites":"2",
+                "participantes":"24"
+            }
+        ]
+    },
+    {   
+        "local":"Penacova",
+        "coordenadas":"2467;1598",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Bivaque Iª",
+                "seccao":[1],
+                "data":"Fevereiro 2006",
+                "noites":"0",
+                "participantes":"7"
+            },
+            {
+                "nome":"Acampamento IIª e IIIª",
+                "seccao":[2,3],
+                "data":"Junho 2006",
+                "noites":"1",
+                "participantes":"22"
+            },
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],
+                "data":"Junho 2008",
+                "noites":"2",
+                "participantes":"15"
+            },
+            {
+                "nome":"Bivaque Iª",
+                "seccao":[1],
+                "data":"Janeiro 2011",
+                "noites":"0",
+                "participantes":"16"
+            },
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Maio 2013",
+                "noites":"1",
+                "participantes":"15"
+            },
+            {
+                "nome":"Bivaque Iª",
+                "seccao":[1],
+                "data":"Junho 2013",
+                "noites":"0",
+                "participantes":"23"
+            },
+            {
+                "nome":"Bivaque IVª",
+                "seccao":[4],
+                "data":"Julho 2013",
+                "noites":"0",
+                "participantes":"3"
+            },
+            {
+                "nome":"Acantonamento IVª",
+                "seccao":[4],
+                "data":"Abril 2014",
+                "noites":"1",
+                "participantes":"7"
+            },
+            {
+                "nome":"Bivaque IIª",
+                "seccao":[2],
+                "data":"Abril 2016",
+                "noites":"0",
+                "participantes":"20"
+            },
+            {
+                "nome":"Acantonamento IIª",
+                "seccao":[2],
+                "data":"Fevereiro 2020",
+                "noites":"2",
+                "participantes":"21"
+            }
+        ]
+    },
+    {   
+        "local":"Penela",
+        "coordenadas":"2221;2289",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],
+                "data":"Março 2011",
+                "noites":"3",
+                "participantes":"16"
+            },
+            {
+                "nome":"ERC 2012",
+                "seccao":[4],
+                "data":"Abril 2012",
+                "noites":"2",
+                "participantes":"4"
+            },
+            {
+                "nome":"Cenáculo Regional 2014",
+                "seccao":[4],
+                "data":"Março 2014",
+                "noites":"2",
+                "participantes":"5"
+            },
+            {
+                "nome":"Acantonamento Iª",
+                "seccao":[1],
+                "data":"Dezembro 2014",
+                "noites":"2",
+                "participantes":"17"
+            },
+            {
+                "nome":"ACAGRUP 2023",
+                "seccao":[1,2,3,4],
+                "data":"Julho 2023",
+                "noites":"3",
+                "participantes":"47"
+            }
+        ]
+    },
+    {   
+        "local":"Pinheiro de Ázere",
+        "coordenadas":"2627;1292",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"ACAGRUP 2004",
+                "seccao":[1,2],
+                "data":"Julho 2004",
+                "noites":"3",
+                "participantes":"22"
+            }
+        ]
+    },
+    {
+        "local":"Poço Corga",
+        "coordenadas":"2561;1523",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento Iª",
+                "seccao":[1],
+                "data":"Maio 2012",
+                "noites":"2",
+                "participantes":"21"
+            }
+        ]
+    },
+    {
+        "local":"Pombal",
+        "coordenadas":"2381;1532",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Junho 2007",
+                "noites":"3",
+                "participantes":"7"
+            },
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Junho 2014",
+                "noites":"2",
+                "participantes":"13"
+            },
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],
+                "data":"Junho 2019",
+                "noites":"3",
+                "participantes":"20"
+            },
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Julho 2022",
+                "noites":"2",
+                "participantes":"11"
+            },
+            {
+                "nome":"Cenáculo Regional 2023",
+                "seccao":[4],
+                "data":"Março 2023",
+                "noites":"2",
+                "participantes":"11"
+            }
+        ]
+    },
+    {
+        "local":"Ponte da Mata",
+        "coordenadas":"2315;1488",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"ACAGRUP 2009",
+                "seccao":[1,2,3,4],
+                "data":"Abril 2009",
+                "noites":"4",
+                "participantes":"42"
+            },
+            {
+                "nome":"Acampamento Iª",
+                "seccao":[1],
+                "data":"Junho 2011",
+                "noites":"1",
+                "participantes":"16"
+            }
+        ]
+    },
+    {   
+        "local":"Portela de Oliveira",
+        "coordenadas":"2433;1536",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Atividade de Voluntariado",
+                "seccao":[2,3],
+                "data":"Fevereiro 2006",
+                "noites":"0",
+                "participantes":"21"
+            }
+        ]
+    },
+    {   
+        "local":"Porto de Mós",
+        "coordenadas":"2273;1721",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento Iª",
+                "seccao":[1],
+                "data":"Junho 2018",
+                "noites":"3",
+                "participantes":"15"
+            }
+        ]
+    },
+    {   
+        "local":"Praia de Mira",
+        "coordenadas":"1375;1128",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Dia de S.Jorge",
+                "seccao":[2,3],
+                "data":"Abril 2008",
+                "noites":"2",
+                "participantes":"26"
+            },
+            {
+                "nome":"Mini Encontro Regional IIª",
+                "seccao":[2],
+                "data":"Abril 2014",
+                "noites":"1",
+                "participantes":"17"
+            },
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],
+                "data":"Julho 2017",
+                "noites":"1",
+                "participantes":"20"
+            },
+            {
+                "nome":"Dia da Região 2018",
+                "seccao":[4],
+                "data":"Outubro 2018",
+                "noites":"1",
+                "participantes":"10"
+            }
+        ]
+    },
+    {   
+        "local":"Quiaios",
+        "coordenadas":"1225;1686",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],
+                "data":"Fevereiro 2006",
+                "noites":"3",
+                "participantes":"13"
+            },
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Fevereiro 2006",
+                "noites":"3",
+                "participantes":"5"
+            },
+            {
+                "nome":"Acantonamento Chefia",
+                "seccao":[5],
+                "data":"Dezembro 2006",
+                "noites":"2",
+                "participantes":"7"
+            },
+            {
+                "nome":"ACAGRUP 2007",
+                "seccao":[2,3],
+                "data":"Julho 2007",
+                "noites":"4",
+                "participantes":"31"
+            },
+            {
+                "nome":"Acampamento Chefia",
+                "seccao":[5],
+                "data":"Outubro 2010",
+                "noites":"2",
+                "participantes":"10"
+            },
+            {
+                "nome":"ACAGRUP 2012",
+                "seccao":[1,2,3,4],
+                "data":"Abril 2012",
+                "noites":"5",
+                "participantes":"62"
+            },
+            {
+                "nome":"Acantonamento IIIª",
+                "seccao":[3],
+                "data":"Dezembro 2013",
+                "noites":"2",
+                "participantes":"16"
+            },
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],
+                "data":"Março 2015",
+                "noites":"3",
+                "participantes":"20"
+            },
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Junho 2016",
+                "noites":"2",
+                "participantes":"16"
+            },
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Junho 2016",
+                "noites":"3",
+                "participantes":"22"
+            },
+            {
+                "nome":"ACAGRUP 2019",
+                "seccao":[1,2,3,4],
+                "data":"Julho 2019",
+                "noites":"4",
+                "participantes":"66"
+            }
+        ]
+    },
+    {   
+        "local":"Rebordosa",
+        "coordenadas":"2463;1712",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento IVª com Agr.309",
+                "seccao":[4],
+                "data":"Julho 2012",
+                "noites":"1",
+                "participantes":"2"
+            },
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],
+                "data":"Junho 2017",
+                "noites":"1",
+                "participantes":"21"
+            },
+            {
+                "nome":"Bivaque Iª",
+                "seccao":[1],
+                "data":"Junho 2021",
+                "noites":"0",
+                "participantes":"22"
+            },
+            {
+                "nome":"Acampamento Iª",
+                "seccao":[1],
+                "data":"Junho 2022",
+                "noites":"2",
+                "participantes":"17"
+            },
+            {
+                "nome":"Bivaque IIª",
+                "seccao":[2],
+                "data":"Junho 2022",
+                "noites":"0",
+                "participantes":"22"
+            }
+        ]
+    },
+    {   
+        "local":"Reconquinho",
+        "coordenadas":"2487;1632",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Junho 2016",
+                "noites":"1",
+                "participantes":"12"
+            }
+        ]
+    },
+    {   
+        "local":"Riba de Baixo",
+        "coordenadas":"2535;1614",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento Iª",
+                "seccao":[1],
+                "data":"Dezembro 2022",
+                "noites":"1",
+                "participantes":"21"
+            }
+        ]
+    },
+    {   
+        "local":"Ribas",
+        "coordenadas":"2403;1866",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento Iª",
+                "seccao":[1],
+                "data":"Dezembro 2011",
+                "noites":"1",
+                "participantes":"20"
+            }
+        ]
+    },
+    {   
+        "local":"Roxo",
+        "coordenadas":"2341;1698",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento Iª",
+                "seccao":[1],
+                "data":"Novembro 2015",
+                "noites":"1",
+                "participantes":"13"
+            },
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Abril 2019",
+                "noites":"2",
+                "participantes":"20"
+            },
+            {
+                "nome":"Acampamento IVª",
+                "seccao":[4],
+                "data":"Abril 2022",
+                "noites":"1",
+                "participantes":"12"
+            }
+        ]
+    },
+    {   
+        "local":"Sabugueiro",
+        "coordenadas":"2795;1277",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento IIIª",
+                "seccao":[3],
+                "data":"Fevereiro 2016",
+                "noites":"2",
+                "participantes":"13"
+            }
+        ]
+    },
+    {   
+        "local":"Sangalhos",
+        "coordenadas":"2465;1238",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],
+                "data":"Fevereiro 2013",
+                "noites":"2",
+                "participantes":"20"
+            }
+        ]
+    },
+    {   
+        "local":"Santiago de Compostela",
+        "coordenadas":"1604;2207",
+        "nivel":"internacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Caminho de Santiago",
+                "seccao":[4],
+                "data":"Abril 2022",
+                "noites":"5",
+                "participantes":"16"
+            }
+        ]
+    },
+    {   
+        "local":"Santuário de Nossa Senhora de Chão de Calvos",
+        "coordenadas":"2549;1262",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento Iª e IIª",
+                "seccao":[1,2],
+                "data":"Abril 2005",
+                "noites":"2",
+                "participantes":"24"
+            },
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Junho 2008",
+                "noites":"2",
+                "participantes":"10"
+            },
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],
+                "data":"Junho 2009",
+                "noites":"2",
+                "participantes":"20"
+            },
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Junho 2010",
+                "noites":"2",
+                "participantes":"16"
+            },
+            {
+                "nome":"Acampamento Iª",
+                "seccao":[1],
+                "data":"Julho 2010",
+                "noites":"3",
+                "participantes":"18"
+            }
+        ]
+    },
+    {   
+        "local":"Santuário de Nossa Senhora da Piedade de Tábuas",
+        "coordenadas":"2422;2178",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento Iª e IIª",
+                "seccao":[2],
+                "data":"Abril 2004",
+                "noites":"2",
+                "participantes":"29"
+            },
+            {
+                "nome":"Acantonamento IIª",
+                "seccao":[2],
+                "data":"Fevereiro 2008",
+                "noites":"1",
+                "participantes":"18"
+            },
+            {
+                "nome":"Acantonamento IIIª",
+                "seccao":[3],
+                "data":"Fevereiro 2008",
+                "noites":"1",
+                "participantes":"8"
+            },
+            {
+                "nome":"Acampamento Iª",
+                "seccao":[1],
+                "data":"Maio 2009",
+                "noites":"2",
+                "participantes":"16"
+            },
+            {
+                "nome":"Acampamento IIª e IIIª",
+                "seccao":[2,3],
+                "data":"Maio 2009",
+                "noites":"1",
+                "participantes":"27"
+            },
+            {
+                "nome":"Acantonamento Iª",
+                "seccao":[1],
+                "data":"Dezembro 2016",
+                "noites":"1",
+                "participantes":"14"
+            }
+        ]
+    },
+    {   
+        "local":"São Jacinto",
+        "coordenadas":"2348;1139",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento IVª",
+                "seccao":[4],
+                "data":"Abril 2018",
+                "noites":"2",
+                "participantes":"6"
+            },
+            {
+                "nome":"Rover",
+                "seccao":[4],
+                "data":"Agosto 9",
+                "noites":"7",
+                "participantes":"4"
+            },
+            {
+                "nome":"Acampamento IVª",
+                "seccao":[4],
+                "data":"Abril 2023",
+                "noites":"2",
+                "participantes":"9"
+            }
+        ]
+    },
+    {   
+        "local":"São Martinho do Porto",
+        "coordenadas":"2171;1742",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],
+                "data":"Março 2016",
+                "noites":"4",
+                "participantes":"21"
+            },
+            {
+                "nome":"ACAGRUP 2022",
+                "seccao":[1,2,3,4],
+                "data":"Julho 2022",
+                "noites":"3",
+                "participantes":"49"
+            }
+        ]
+    },
+    {   
+        "local":"São Pedro de Alva",
+        "coordenadas":"2714;1521",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Junho 2023",
+                "noites":"2",
+                "participantes":"12"
+            }
+        ]
+    },
+    {   
+        "local":"Seixo de Mira",
+        "coordenadas":"1483;1090",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],
+                "data":"Março 2008",
+                "noites":"3",
+                "participantes":"18"
+            },
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Março 2008",
+                "noites":"3",
+                "participantes":"7"
+            },
+            {
+                "nome":"ACAGRUP 2010",
+                "seccao":[1,2,3,4],
+                "data":"Março 2010",
+                "noites":"4",
+                "participantes":"46"
+            },
+            {
+                "nome":"ACAGRUP 2017",
+                "seccao":[1,2,3,4],
+                "data":"Fevereiro 2017",
+                "noites":"2",
+                "participantes":"45"
+            }
+        ]
+    },
+    {   
+        "local":"Serpins",
+        "coordenadas":"2609;1935",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],
+                "data":"Junho 2004",
+                "noites":"1",
+                "participantes":"15"
+            },
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Outubro 2006",
+                "noites":"2",
+                "participantes":"7"
+            },
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],
+                "data":"Junho 2007",
+                "noites":"2",
+                "participantes":"19"
+            },
+            {
+                "nome":"Acampamento Iª e IIIª",
+                "seccao":[1,3],
+                "data":"Junho 2009",
+                "noites":"2",
+                "participantes":"23"
+            },
+            {
+                "nome":"Atividade de Serviço IIIª",
+                "seccao":[3],
+                "data":"Abril 2011",
+                "noites":"0",
+                "participantes":"12"
+            },
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],
+                "data":"Junho 2011",
+                "noites":"2",
+                "participantes":"23"
+            },
+            {
+                "nome":"Acampamento Iª",
+                "seccao":[1],
+                "data":"Fevereiro 2012",
+                "noites":"2",
+                "participantes":"23"
+            },
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Fevereiro 2012",
+                "noites":"2",
+                "participantes":"19"
+            },
+            {
+                "nome":"Acampamento Preparação ACANAC",
+                "seccao":[2,3],
+                "data":"Junho 2012",
+                "noites":"2",
+                "participantes":"21"
+            },
+            {
+                "nome":"Bivaque Inter-Agrupamentos IIIª",
+                "seccao":[3],
+                "data":"Junho 2012",
+                "noites":"0",
+                "participantes":"11"
+            },
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Junho 2012",
+                "noites":"2",
+                "participantes":"13"
+            },
+            {
+                "nome":"ACAPAIS 2015",
+                "seccao":[1,2,3,4],
+                "data":"Maio 2015",
+                "noites":"2",
+                "participantes":"70"
+            },
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],
+                "data":"Junho 2015",
+                "noites":"2",
+                "participantes":"17"
+            },
+            {
+                "nome":"1º Torneio de Técnica Escutista",
+                "seccao":[2,3],
+                "data":"Março 2017",
+                "noites":"2",
+                "participantes":"33"
+            }
+        ]
+    },
+    {   
+        "local":"Serra da Boa Viagem",
+        "coordenadas":"1180;1794",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento Iª e IIª",
+                "seccao":[1,2],
+                "data":"Dezembro 2004",
+                "noites":"2",
+                "participantes":"26"
+            }
+        ]
+    },
+    {   
+        "local":"Serra da Estrela",
+        "coordenadas":"2819;1343",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento IIª",
+                "seccao":[2],
+                "data":"Março 2022",
+                "noites":"2",
+                "participantes":"20"
+            }
+        ]
+    },
+    {   
+        "local":"Serra da Lousã",
+        "coordenadas":"2617;2133",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento IIª",
+                "seccao":[2],
+                "data":"Outubro 2005",
+                "noites":"1",
+                "participantes":"15"
+            },
+            {
+                "nome":"Acantonamento IIIª",
+                "seccao":[3],
+                "data":"Dezembro 2005",
+                "noites":"2",
+                "participantes":"6"
+            },
+            {
+                "nome":"Acantonamento Iª",
+                "seccao":[1],
+                "data":"Dezembro 2006",
+                "noites":"2",
+                "participantes":"6"
+            },
+            {
+                "nome":"Acantonamento IIª",
+                "seccao":[2],
+                "data":"Dezembro 2006",
+                "noites":"2",
+                "participantes":"19"
+            },
+            {
+                "nome":"Raid IIIª e Pais",
+                "seccao":[3],
+                "data":"Janeiro 2010",
+                "noites":"0",
+                "participantes":"21"
+            },
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Março 2018",
+                "noites":"2",
+                "participantes":"21"
+            },
+            {
+                "nome":"Bivaque Iª",
+                "seccao":[1],
+                "data":"Junho 2021",
+                "noites":"0",
+                "participantes":"23"
+            },
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Março 2022",
+                "noites":"2",
+                "participantes":"17"
+            }
+        ]
+    },
+    {   
+        "local":"Serra do Bussaco",
+        "coordenadas":"2349;1412",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento IIIª",
+                "seccao":[3],
+                "data":"Dezembro 2006",
+                "noites":"2",
+                "participantes":"8"
+            },
+            {
+                "nome":"Acantonamento IIIª",
+                "seccao":[3],
+                "data":"Dezembro 2010",
+                "noites":"2",
+                "participantes":"14"
+            },
+            {
+                "nome":"Bivaque IIIª",
+                "seccao":[3],
+                "data":"Junho 2021",
+                "noites":"1",
+                "participantes":"23"
+            }
+        ]
+    },
+    {   
+        "local":"Setúbal",
+        "coordenadas":"2252;2249",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Mercado Internacional",
+                "seccao":[4],
+                "data":"Outubro 2016",
+                "noites":"0",
+                "participantes":"2"
+            },
+            {
+                "nome":"Encontro Aberto do Cenáculo Nacional",
+                "seccao":[4],
+                "data":"Abril 2022",
+                "noites":"2",
+                "participantes":"2"
+            }
+        ]
+    },
+    {   
+        "local":"Soure",
+        "coordenadas":"1711;2148",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Junho 2007",
+                "noites":"3",
+                "participantes":"7"
+            }
+        ]
+    },
+    {   
+        "local":"Tavarede",
+        "coordenadas":"1216;1854",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Quart'Andar",
+                "seccao":[4],
+                "data":"Janeiro 2019",
+                "noites":"1",
+                "participantes":"8"
+            },
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],"data":"Março 2019",
+                "noites":"2",
+                "participantes":"21"
+            }
+        ]
+    },
+    {   
+        "local":"Telhado",
+        "coordenadas":"2351;1546",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Partidas 2013",
+                "seccao":[4],
+                "data":"Outubro 2013",
+                "noites":"1",
+                "participantes":"10"
+            },
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],
+                "data":"Novembro 2013",
+                "noites":"2",
+                "participantes":"20"
+            },
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Fevereiro 2014",
+                "noites":"1",
+                "participantes":"12"
+            },
+            {
+                "nome":"Acantonamento IIª",
+                "seccao":[2],
+                "data":"Novembro 2018",
+                "noites":"1",
+                "participantes":"20"
+            },
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Novembro 2018",
+                "noites":"2",
+                "participantes":"21"
+            },
+            {
+                "nome":"Acantonamento Iª",
+                "seccao":[1],
+                "data":"Novembro 2019",
+                "noites":"2",
+                "participantes":"21"
+            }
+        ]
+    },
+    {   
+        "local":"Tomar",
+        "coordenadas":"2468;1694",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"ENC 2012",
+                "seccao":[4],
+                "data":"Novembro 2012",
+                "noites":"2",
+                "participantes":"2"
+            }
+        ]
+    },
+    {   
+        "local":"Viana do Castelo",
+        "coordenadas":"2345;605",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Encontro Nacional de Guias",
+                "seccao":[3],
+                "data":"Maio 2022",
+                "noites":"1",
+                "participantes":"2"
+            }
+        ]
+    },
+    {   
+        "local":"Vila Cova do Alva",
+        "coordenadas":"3173;1629",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento Iª",
+                "seccao":[1],
+                "data":"Abril 2014",
+                "noites":"2",
+                "participantes":"18"
+            }
+        ]
+    },
+    {   
+        "local":"Vila Nova de Poiares",
+        "coordenadas":"2515;1802",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento Iª",
+                "seccao":[1],
+                "data":"Março 2015",
+                "noites":"2",
+                "participantes":"15"
+            }
+        ]
+    },
+    {   
+        "local":"Vila Verde",
+        "coordenadas":"1354;1953",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acantonamento IIª e IIIª",
+                "seccao":[2,3],
+                "data":"Dezembro 2009",
+                "noites":"2",
+                "participantes":"27"
+            },
+            {
+                "nome":"Acantonamento Iª",
+                "seccao":[1],
+                "data":"Dezembro 2015",
+                "noites":"2",
+                "participantes":"12"
+            },
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Dezembro 2017",
+                "noites":"3",
+                "participantes":"22"
+            },
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Fevereiro 2020",
+                "noites":"3",
+                "participantes":"23"
+            }
+        ]
+    },
+    {   
+        "local":"Vimieiro",
+        "coordenadas":"2627;1629",
+        "nivel":"distrital",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],
+                "data":"Fevereiro 2016",
+                "noites":"2",
+                "participantes":"20"
+            },
+            {
+                "nome":"Acampamento IIIª",
+                "seccao":[3],
+                "data":"Junho 2019",
+                "noites":"3",
+                "participantes":"21"
+            }
+        ]
+    },
+    {   
+        "local":"Viseu",
+        "coordenadas":"2702;1160",
+        "nivel":"nacional",
+        "sede":false,
+        "atividades":[
+            {
+                "nome":"Acampamento IIª",
+                "seccao":[2],
+                "data":"Junho 2010",
+                "noites":"2",
+                "participantes":"15"
+            }
+        ]
+    }
+]
