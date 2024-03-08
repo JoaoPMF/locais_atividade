@@ -99,7 +99,7 @@ export const Mapa = () => {
         progressRef.current.classList.add('progress_rewind_animation');
         
         let tempImages: any[] = []
-        const images = require.context(`./..\\Images\\Locais`,true);
+        const images = require.context(`./..\\..\\Images\\Locais`,true);
         if (images != null) {
             images.keys().forEach(image => {
                 const imageFolderSplit = image.split("/");
